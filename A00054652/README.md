@@ -4,7 +4,7 @@
 
 **Código:** A00054652  
 
-**Github URL:** https://github.com/yosoyafa/so-workshop2/
+**Github URL:** https://github.com/yosoyafa/so-workshop2/tree/A00054652a/taller2/A00054652
 
 ## Descripción
 
