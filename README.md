@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Corta descripción de lo realizado en el taller
+Con el taller se pudo conocer mas sobre los que son los sistemas operativos a partir de su historia, desde sus inicios llegando a las facilidades que son capaces de ofrecernos hoy por hoy.
 
 ## Referencias
 
